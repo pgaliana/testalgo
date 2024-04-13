@@ -10,3 +10,5 @@ options(scipen=999)
 rm(list = ls())
 
 print("Hola")
+
+print("Vamos al café")
