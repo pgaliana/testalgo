@@ -1,4 +1,4 @@
-# esto es un script.R
+# script.R
 
 
 # Determinar el directorio del script actual
@@ -9,6 +9,5 @@ setwd(script_path)
 options(scipen=999)
 rm(list = ls())
 
-print("Hola")
+print("testalgo")
 
-print("Vamos al café")
